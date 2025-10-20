@@ -30,8 +30,8 @@ Hi, I'm Suveer Khandelwal! I'm a 10th-grade student with a strong passion for we
 - **Java** (Beginner)
 - **Python** (Beginner)
 - **HTML** (Intermediate)
+- 
 ## Projects
-
 
 ### FinTrack
 A website to track the daily income and expenses, the entries stored in a script. [GitHub Repo](https://github.com/suveerkh/fintrack)
@@ -57,6 +57,6 @@ To set up the project locally:
 To explore the website, simply open `index.html` in a web browser. Navigate through different sections using the navigation bar.
 ## Contact
 Feel free to reach out for collaborations or inquiries:
-- **Email:** suveerkh02@gmail.com
-- **GitHub:** [Swayam Khandelwal](https://github.com/suveerkh)
+- **Email:** suveerkh@gmail.com
+- **GitHub:** [Suveer Khandelwal](https://github.com/suveerkh)
 Thank you for visiting my portfolio!
