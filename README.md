@@ -37,7 +37,7 @@ Hi, I'm Suveer Khandelwal! I'm a 10th-grade student with a strong passion for we
 A website to track the daily income and expenses, the entries stored in a script. [GitHub Repo](https://github.com/suveerkh/fintrack)
 
 ### Nexus 
-An AI Chatbot that uses Gemini API integrated with flask to give responses to your queries. [GitHub Repo](https://github.com/suveerkh/nexus)
+Nexus is a knowledge graph app for macOS that lets you build a web of connected ideas. [GitHub Repo](https://github.com/suveerkh/nexus)
 
 ## Setup
 
