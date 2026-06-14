@@ -36,8 +36,8 @@ Hi, I'm Suveer Khandelwal! I'm a 10th-grade student with a strong passion for we
 ### FinTrack
 A website to track the daily income and expenses, the entries stored in a script. [GitHub Repo](https://github.com/suveerkh/fintrack)
 
-### Blink - AI Chatbot
-An AI Chatbot that uses Gemini API integrated with flask to give responses to your queries. [GitHub Repo](https://github.com/suveerkh/blink)
+### Nexus 
+An AI Chatbot that uses Gemini API integrated with flask to give responses to your queries. [GitHub Repo](https://github.com/suveerkh/nexus)
 
 ## Setup
 
